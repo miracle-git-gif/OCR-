@@ -1,0 +1,1044 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/280e180d7a26fdd3f0f0be4c669c1c3c8a44c047aa84844a7eb2e4e821ba310d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">体检编号：</td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"3\">瑞慈健康体检体检报告书</td></tr><tr><td>姓名：</td><td></td><td></td><td rowspan=\"6\"></td></tr><tr><td>性别：</td><td>女</td><td></td></tr><tr><td>检查日期：</td><td>2025-05-22</td><td></td></tr><tr><td>年龄：</td><td></td><td></td></tr><tr><td>身份证：</td><td></td><td></td></tr><tr><td>工作单位： 部门：</td><td colspan=\"3\">广州--个人</td></tr><tr><td>工号：</td><td colspan=\"3\"></td></tr><tr><td>职业：</td><td colspan=\"3\"></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ac5ce75d4ef7db36290c4072873f084296724befe40119beb5b9b3de2ffb7a8.jpg",
+        "table_caption": [
+            "健康问卷"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>既往史(外)</td><td>无特殊</td></tr><tr><td>手术史名称</td><td>无特殊</td></tr><tr><td>外伤史部位</td><td>无特殊</td></tr><tr><td>过敏</td><td>无特殊</td></tr><tr><td></td><td>检查医师：韩丽菊</td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f41b5de5678bb3c6114d0c2fb3f97015f60c7fb149b5ade0ff09ed98d56b3679.jpg",
+        "table_caption": [
+            "一般检查"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>身高</td><td>158.0cm</td></tr><tr><td>体重</td><td>56.2kg</td></tr><tr><td>体重指数BMI</td><td>22.5</td></tr><tr><td>收缩压</td><td>108mmHg</td></tr><tr><td>舒张压</td><td>68 mmHg</td></tr><tr><td>腰围</td><td>84.0cm</td></tr><tr><td></td><td>88.0 m</td></tr><tr><td>腰臀比</td><td></td></tr><tr><td>0.95</td><td>检查者：代林彦</td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4471e8a90bba515d0109299fae38f8f7ed3619fcff506b11fbcaec8c85b6901.jpg",
+        "table_caption": [
+            "内科"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>营养</td><td>营养良好</td></tr><tr><td>面容</td><td>正常</td></tr><tr><td>胸廓</td><td>正常</td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c715eb771651f92f6fcc690c15c94f42d78ab6254c57adcd3e7d18741c4ef59f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "审核者：傅晓珍 检查者：招晓婷 ",
+            "检验时间：2025-05-2310:54:59"
+        ],
+        "table_body": "<table><tr><td>嗜酸性粒细胞百分</td><td>2.60</td><td>0.5-5</td><td>%</td><td></td></tr><tr><td>嗜碱性粒细胞百分比</td><td>0.50</td><td>0-1</td><td>%</td><td></td></tr><tr><td>中性粒细胞数</td><td>3.38</td><td>2-7</td><td>*10^9/L</td><td></td></tr><tr><td>淋巴细胞数</td><td>1.50</td><td>0.8-4</td><td>*10^9/L</td><td></td></tr><tr><td>单核细胞数</td><td>0.24</td><td>0.12-0.8</td><td>*10^9/L</td><td></td></tr><tr><td>嗜酸性粒细胞数</td><td>0.14</td><td>0.05-0.5</td><td>*10^9/L</td><td></td></tr><tr><td>嗜碱性粒细胞数</td><td>0.03</td><td>0-0.1</td><td>*10^9/L</td><td></td></tr><tr><td>红细胞</td><td>3.65</td><td>3.8-5.1</td><td>*10^12/L</td><td>↓</td></tr><tr><td>血红蛋白</td><td>116</td><td>115-150</td><td>g/L</td><td></td></tr><tr><td>红细胞压积</td><td>35.90</td><td>33-45</td><td>%</td><td></td></tr><tr><td>平均红细胞体积</td><td>98.4</td><td>82-100</td><td></td><td></td></tr><tr><td>平均血红蛋白量</td><td>31.78</td><td>27-34</td><td></td><td></td></tr><tr><td>平均血红蛋白浓度</td><td>324.00</td><td>316-354</td><td>g/L</td><td></td></tr><tr><td>红细胞分布宽度-SD</td><td>42.9</td><td>21-52</td><td></td><td></td></tr><tr><td>血小板</td><td>269.00</td><td>125-350</td><td>*10^9/L</td><td></td></tr><tr><td>血小板平均体积</td><td>7.9</td><td>6.5-12.00</td><td></td><td></td></tr><tr><td>血小板分布宽度</td><td>15.9</td><td>9-17</td><td>%</td><td></td></tr><tr><td>血小板压积</td><td>0.21</td><td>0-2.9</td><td>%</td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe2efc7d80a5e0566ea552370faa06bebfc6e6a3548206c594964fed38433645.jpg",
+        "table_caption": [
+            "检验项目：血清-CST4"
+        ],
+        "table_footnote": [
+            "审核者：张莉 检查者：彭佳妮 ",
+            "检验时间：2025-05-2420:06:24"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>人半胱氨酸蛋自酶抑制剂</td><td>47.97</td><td>0~101</td><td>U/m1</td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dacd0db61bee2efd61a02dde58621bbcd042b3bdbf70d97426a2073ba59c8af.jpg",
+        "table_caption": [
+            "检验项目：阴道分泌物检验 "
+        ],
+        "table_footnote": [
+            "审核者：薛毓峰 检查者：王捷",
+            "检验时间：2025-05-2211:22:00"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>滴虫</td><td>一</td><td></td><td></td><td></td></tr><tr><td>霉菌</td><td></td><td></td><td></td><td></td></tr><tr><td>清洁度</td><td>Ⅱ°</td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c12b00edf13740b64c8f9ec05652dcc113e1c702659a161a7067022bf6f4c944.jpg",
+        "table_caption": [
+            "呼气试验 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>C13呼试验(HP)</td><td>呼试验阴性</td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "广州瑞慈瑞穗健康体检中心13C呼气试验Hp检验报告",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5dbd9c160c10460e7ccaeb2c140ad13570298c75162b9db96622170c294ade24.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"15\">影像报告</td><td></td><td colspan=\"2\">个人信息</td></tr><tr><td>姓名：</td><td>性别：女</td><td>年龄</td></tr><tr><td>体检号：</td><td>检验日期：2025-05-22</td><td>机器型号：HY-IREXBplus</td></tr><tr><td>试剂名称：13c尿素</td><td>纯度：99%</td><td>电话：</td></tr><tr><td>地址</td><td></td><td></td></tr><tr><td></td><td colspan=\"2\">检验结果</td></tr><tr><td>指标：DOB值</td><td colspan=\"2\">检测值：0.17 结果：阴性(-)</td></tr><tr><td></td><td>检验标准</td><td></td></tr><tr><td></td><td colspan=\"2\">DOB≥4.0为阳性</td></tr><tr><td colspan=\"6\">DOB&lt;4.0为阴性</td></tr><tr><td colspan=\"6\">图形分析</td></tr><tr><td rowspan=\"3\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.5 10</td><td></td><td></td><td></td><td></td></tr><tr><td>0 5</td><td>10</td><td></td><td>15</td><td>20 25 30</td></tr><tr><td rowspan=\"5\"></td><td colspan=\"5\">-Standard -Result</td></tr><tr><td colspan=\"6\">结果评价 13C呼气试验HD检验报告结果：阴性.</td></tr><tr><td colspan=\"6\"></td></tr><tr><td colspan=\"6\">检验人员： 审核人： 本报告只对本次检验负责</td></tr></table>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "超声条件及图像质量【乙】肝脏形态大小正常，实质回声分布均匀，血管纹理清晰。门静脉内径正常。CDFI：血流信号未见明显异常。胆囊形态正常，壁欠光滑，可见多个稍回声光团附于内壁，其约5×4mm，无声影，无移动，肝内外胆管未见明显扩张。CDFI：血流信号未见明显异常。脾脏形态正常，包膜完整，内部回声均匀。CDFI：流信号未见明显异常。双肾形态正常范围，包膜光滑，集合系统未见明显分离。CDFI：流信号未见明显异常。  \n检查描述 块尚正常：实质见明未见明显增厚，双侧附件区未双侧乳腺腺体厚度正常，结构清晰，分布不均匀，腺管未见明显扩张，于右侧乳腺12点距乳晕处，可见一个低回声结节，大小约10×7mm，边界尚清晰。CDFI血流信号未见明显异常。左侧乳腺未见明显占位性病变。甲状腺形态大小正常，包膜完整，实质回声不均匀，双侧叶均见多个结节右侧其一大小约7×4mm（为囊实性）左侧其一大小约7x4mm（为囊实性，边界尚清，形态规则，内部回声欠均匀。峡部未见明显异常回声。CDFI：上述结节内未见明显异常血流信号。双侧颈总动脉内径正常，内膜不光滑，内中膜增厚，左、右侧厚分别约1.0mm、1.0mm。左侧颈动脉分叉处后壁可见一个大小约2.1x5.1mm的低回声斑块附着于管壁。CDF：斑块处可见充盈缺损。胆囊多发息肉样病变绝经期子宫右侧乳腺结节（BI-RADS4a类），建议进一步检查  \n检查结论 LRADS3左侧颈动脉斑块形成肝、脾、双肾未见明显异常左侧乳腺未见明显占位性病变12=0FR 34A0% 100GE 0 CHIFrq 10.0Gn 62SIA 3/3MapDDR魔法师 off  \n影像附件147:47(1.41.43))",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dee7f2d0839294e421d3251f351c4000c00023ec3933fa1794f282cc83f51e8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f01453ec7d7efe965c25e1c0f58fd667c23aee3d12a7caf823cf0252175d0a8a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8ca95ec1ffbf06c24ae8c0cb018337b6c9cccc4e0c5686c22b4283e83420d6c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/269bdcbf7fb0c756395baff260de85be99d72b68ecf9aa701a334d27e5ba1e9e.jpg",
+        "image_caption": [
+            "影像附件7"
+        ],
+        "image_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/50e43fc3a14476002bec9b6a45ff953f8bf2547d1f1570153c746297aef0ff18.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/07e951af0e7e87c102496d7e1bb899b128112c87bf7680da149c160f3e376ee5.jpg",
+        "image_caption": [
+            "影像附件9"
+        ],
+        "image_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4e65e2bc36c94ef38885f2e222defad60810d6ddf07116b84b99409a17eba1b.jpg",
+        "image_caption": [
+            "影像附件10"
+        ],
+        "image_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b73cbdcff773ac3595c8a397563d1761dc082cafa13b046463c50bd08af06209.jpg",
+        "image_caption": [
+            "影像附件11"
+        ],
+        "image_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/76ab36320ff850b5461efa0a0a67aa6de9f41b70d59b2e3875ec10404d63eeb6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5b43cd0512c690480f1177cb4e12e4e1dea35e2e99cb85066e58017e6032565.jpg",
+        "image_caption": [
+            "影像附件13"
+        ],
+        "image_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1df351fb9ba5ffd2f3c9dc4974f8e4ca8af079616c36ea95fb9df36cfb19e89.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e3f0ecaa40524546771bfb006cda9be6600682ddb67a0b4661b368cc9479b90.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>心率</td><td>60次/分</td></tr><tr><td>心</td><td>齐</td></tr><tr><td>心音</td><td>正常</td></tr><tr><td>心脏杂音</td><td>无</td></tr><tr><td>肺部</td><td>两肺呼吸音正常</td></tr><tr><td>腹部</td><td>未见异常</td></tr><tr><td>肝脏</td><td>肋下未及</td></tr><tr><td>脾脏</td><td>肋下未及</td></tr><tr><td>下肢浮肿</td><td>无</td></tr><tr><td>神经反射</td><td>膝反射正常</td></tr><tr><td>外周血管</td><td>足背动脉搏动存在</td></tr><tr><td colspan=\"2\"></td></tr></table>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/b226e5daede6886f2ced6fb845e709a201bbfd5c9e5837acff19ed7be3d6660e.jpg",
+        "table_caption": [
+            "外科"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>皮肤</td><td>未见异常</td></tr><tr><td>浅表淋巴结</td><td>未见异常</td></tr><tr><td>甲状腺</td><td>双叶甲状腺结节</td></tr><tr><td>乳房</td><td>右乳腺结节</td></tr><tr><td>脊柱</td><td>未见异常</td></tr><tr><td>四肢关节</td><td>未见异常</td></tr><tr><td>肛门指诊</td><td>内痔</td></tr><tr><td>科室小结</td><td>双叶甲状腺结节 结</td></tr><tr><td colspan=\"2\"></td></tr></table>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/612be66ddbfea7dc829a687a575a014ee2860dc0c70210e313a53154636143fd.jpg",
+        "table_caption": [
+            "妇科"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>外阴</td><td>未见异常</td></tr><tr><td>阴道</td><td>未见异常</td></tr><tr><td>宫颈</td><td>未见异常</td></tr><tr><td>宫体</td><td>未见异常</td></tr><tr><td>附件</td><td>未触及异常</td></tr><tr><td colspan=\"2\"></td></tr></table>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c20bf2dcb59072f53dfd5b532cd510e232339fb9cca3337dc627ff531edc472.jpg",
+        "table_caption": [
+            "眼科"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>裸眼视力右</td><td>0.25</td></tr><tr><td>裸眼视力左</td><td>0.3</td></tr><tr><td>右眼眼压</td><td>15 mmHg</td></tr><tr><td>左眼眼压</td><td>15 mmHg</td></tr><tr><td>外眼检查</td><td>未见异常</td></tr></table>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/13b4335c0db287b9da0b7e0be3893c780497ae581b4a8a002a2b5958810bcdd9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/19084e7850f5d657c0b323a2372a7f927206eff6e7b1c61caf516252f92ab7b8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/43ecd20a0609c9ccaf1ca995d6bc9540c65b33d7db4ae06acb4af9394423de71.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb8ea4ed33e9d31439f20fff3704e028f7d8bb946a8f966bc43cb1dae28f2f7f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc60206d704b9b1172a34027ceda99638e2c8af0d71bf73fab2bc04b7026fcfd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccb0125f13468fedb07a7609a27380a3769a57ebc650b4a62b9d284686c5aff4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d1247ea09d7f3d715c753af8c394a2f8423534742cade0580995219b5293d4c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/0115b4a1338a2bfda29100d4eae29b864f545f0cfc448b214b1bfb8bed6ee261.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb6a5567555da545e81115f2eea03eb17415c5b7a742a127abec4cf234ba5d3d.jpg",
+        "table_caption": [
+            "CT室",
+            "心电图"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>检查描述</td><td>双侧脑半球对称，左侧枕叶见条样低密度影，边界尚清；脑室结构未见 明显异常，脑池及部分脑沟增宽，中线结构居中，小脑、脑干未见明显异常 。双侧筛窦粘膜稍增厚 胸廓对称，两肺纹理增多，左肺上叶(Se8Im67、71)见实性结节，较大者位于， Im67，边界清，直径约3mm。左肺上下叶(Se8Im37、134)见磨玻璃结节，较大 者位于左肺上叶Im37，边界尚清，直径约3mm。气管及诸叶、段支气管通畅 。纵隔窗示纵隔居中，纵隔内未见明显肿大淋巴结。心影未见明显异常，未 见明显胸腔积液征象。主动脉壁局部见斑点状钙化影。右侧乳腺内见结节样 稍高密度影，直径约9mm。</td></tr><tr><td>检查结论</td><td>左侧枕叶软化灶形成可能，请结合临床及病史，必要时MR检查 老年性脑改变 双侧筛窦少许炎症 左肺上叶实性微小结节影，建议随诊复查 左肺上下叶磨玻璃微小结节，建议随诊复查 主动脉钙化</td></tr><tr><td></td><td>右侧乳腺结节影，请结合临床相关检查 审核医师：杜家富 诊断医师：汤守民</td></tr></table>",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/2050fc8b55c386effe6ec1685c8645f31ec7cbb58c117bc320e7afa5c48f691e.jpg",
+        "image_caption": [
+            "诊断医师：刘秀丹"
+        ],
+        "image_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "影像报告",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "广州瑞慈瑞穗健康体检中心",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/46cbb2b1f0d9bf7623005a085c98bd5472eaf4d1bb4e7c380ac56a5d7d97a5ad.jpg",
+        "image_caption": [
+            "电测听检测"
+        ],
+        "image_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0d1d5157be3829cf677be0956a8773aa6b74294b1185f2de3a6569af8ad80ab.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>眼底检查</td><td>未见明显异常</td></tr><tr><td>裂隙灯检查</td><td>双眼白内障（初发期）</td></tr><tr><td>科室小结</td><td>视偏低。裸眼视右值偏低(0.25)(参考值1~2)；裸眼视左值 偏低(0.3)（参考值1~2) 双眼白内障（初发期）</td></tr><tr><td colspan=\"2\">检查医师：王建华</td></tr></table>",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e5c08b9991c759c86e5015a76ad1c4ff12f92a8df7e005d19bf1227a3f85aa1.jpg",
+        "table_caption": [
+            "耳鼻喉 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>耳</td><td>右耳耵聍阻塞，左耳鼓膜混浊</td></tr><tr><td>鼻</td><td>未见异常</td></tr><tr><td>口咽</td><td>未见异常</td></tr><tr><td>科室小结</td><td>右耳耵聍阻塞，左耳鼓膜混浊</td></tr><tr><td colspan=\"2\"></td></tr></table>",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/de623bd92576782a5841f6b0f422d0a7b26f20b000fae907f5cfd2445317cfce.jpg",
+        "table_caption": [
+            "口腔科"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>检查结果</td></tr><tr><td>牙周</td><td>牙石+</td></tr><tr><td>口腔粘膜</td><td>未见异常</td></tr><tr><td>颌面部</td><td>未见异常</td></tr><tr><td>牙体</td><td>25,26,28残根；24,37缺失</td></tr><tr><td>科室小结</td><td>5.26.2残根：24.37缺失</td></tr><tr><td></td><td>检查医师：李亚鸽</td></tr></table>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "综合报告单",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/392ad1fbf477680752a58d96ec91ca9bbcf248f87f4263ca438f13d0119d86de.jpg",
+        "table_caption": [
+            "检验项目：血型"
+        ],
+        "table_footnote": [
+            "审核者：李洪 检查者：周艳飞 ",
+            "检验时间：2025-05-2301:06:00"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>ABO血型</td><td>B型</td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/6482b2cd3fd0e56e290edeae98f9952bd967618cd75ac093927b3874400faa2c.jpg",
+        "table_caption": [
+            "检验项：尿常规 "
+        ],
+        "table_footnote": [
+            "审核者：卓婷婷 检查者：刘颂君",
+            "检验时间：2025-05-2300:39:55"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>尿微量蛋与尿肌酐值测定</td><td>0.61</td><td>0.00-3.0</td><td>mg/mmol</td><td></td></tr></table>",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea22566225f8e717ab616ff81e144217570d88f2f82324dc88fb868f3e522581.jpg",
+        "table_caption": [
+            "检验项目：尿常规"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>尿胆原</td><td>阴性</td><td>性</td><td></td><td></td></tr><tr><td>胆红素</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>尿酮体</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>隐血</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>尿蛋白</td><td>阴性</td><td>阴性</td><td></td><td></td></tr></table>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "州瑞慈瑞穗健康体检中听力测试报告",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "ID性别：女备注：",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/26d0a64acb1786f914c7805cc7898afc57f4522c48c9d9dfa6c737c8fbc1d9f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3c4a74935264fdbee1a76d15ba9229d8a56639e2d2046faae6434263a50b28b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>500</td><td>1K</td><td>2K</td><td>3K</td><td>4K</td></tr><tr><td>气导</td><td></td><td>55</td><td>55</td><td>75</td><td>85</td></tr><tr><td>骨导</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4adeb0d533a3e67a2a5283a127d09034b6aaf4384f90ac1dfe9da7e24fa8a2b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5720864271cb150047225bb2038e8524500abc855f8c59bab1c8bc1b55a597f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>500</td><td>1K</td><td>2K</td><td>3K</td><td>4</td></tr><tr><td>气导</td><td></td><td>40</td><td>40</td><td>40</td><td></td></tr><tr><td>骨导</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "测试日期：2025-05-2209:42  \n打印日期-2025-05-2209.42",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "检查医生：红 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "广州瑞慈瑞穗健康体检中心",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "超声骨密度检测报告",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "受检者信息",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "受检者ID: 年龄 岁女右姓名： 性别出生日期 测量部位（左/右）：",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "测量结果",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "测量日期：2025-05-2209:26:07 测量编号：1/1",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/f402dbaf5de500424c7ddf0919b942007a7a26301609fa0fb5c541c1f81b7ba0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/12f80bc39b893122161d8d9203a29c30103ea9bc8a14e37135fad0a1db64cbf7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "数据库：亚洲人  \n骨质指数：41.9  \nSOS: 1505.3m/s BUA: 19.2  \nT值： -1.6  \nZ值： 0.9",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "成人比： 84.3 %同龄比： 112.3 %OPR: N/A %骨生理年龄： 岁",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "结果分析",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3e1ed7024bdbe4f7cdf5f981a31f040afabbc261df99510a6bfb1e0629cd971.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/499b111175c4ebabba72386bb9c2751b8c30af8a19cff188a3c268cf14c80f2d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "诊断意见 ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "骨质情况一般。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "（如乳腺纤维瘤）以及乳腺恶性肿瘤（乳腺癌）等。凡新发现乳腺结节，均需到医院乳腺外科做进一步检查（如乳腺超声检查、钼靶X线摄片、磁共振成像、活检等）并定期复查。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "3.CT提示：左肺上下叶磨玻璃微结节，建议随诊复查；CT提：左肺上叶实性微结节影，建议随诊复查。建议呼吸内科复查。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【肺部结节】肺结节是指肺内生理或病理性组织，在CT或X线胸片上显示为局灶性、类圆形密度增高的阴影。肺内很多疾病都会形成结节，如炎症、结核、霉菌、出血、肿瘤等。多数肺结节是良性的，部分有恶性风险。肺部结节通常无症状。若首次发现肺部结节，需要医院呼吸专科医生，结合病史、症状及其他相关检查阳性结果等，对肺部结节的性质进行风险评估，并定期复查随访。吸烟者建议戒烟。如您同时伴有咳嗽、咳痰、痰中带血等不适，应及时呼吸内科就诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【肺部结节】肺结节是指肺内理或病理性组织，在CT或X线胸上显示为局灶性、类圆形密度增高的阴影。肺内很多疾病都会形成结节，如炎症、结核、毒菌、出血、肿瘤等。多数肺结节是良性的，部分有恶性风险。肺部结节通常无症状。若首次发现肺部结节，需要医院呼吸专科医生, 结合病史、症状及其他相关检查阳性结果等，对肺部结节的性质进行风险评估，并定期复查随访。吸烟者建议戒烟。如您同时伴有咳嗽、咳痰、痰中带血等不适，应及时呼吸内科就诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "4.超声提：甲状腺双侧叶多发结节（TI-RADS3类）。建议甲状腺外科进步检查。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【甲状腺结节】是指甲状腺细胞在局部异常生长所引起的散在病变。在健康体检中非常多见，可由多种病因引起。中国甲状腺结节超声恶性危险分层系统（C-IIRADS），为临床诊断和治疗提供较客观的依据。（解释：C-TIRADS1-2类，恶性可能0%；C-TIRADS3类，恶性可能<2%；C-TIRADS4A类，恶性可能2%～10%；C-TIRADS4B类，恶性可能10%～50%；C-TIRADS4C类，恶性可能50%\\~90%；C-TIRADS5类，恶性可能>90%；C-TIRADS6类，活检证实的恶性结节）。本次检出的甲状腺结节分类不是固定不变的，可随结节的变化而修正。因此对于体检中初次检出的甲状腺结节，无论您的甲状腺结节是什么类别，均应咨询甲状腺专科医师，经充分评估后制定个性化的随访或诊疗计划。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "5.尿酸症。清尿酸值(401.18μmol/L)(参考值143-339)。建议内分泌代谢科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【高尿酸血症】尿酸作为嘌呤代谢的终产物，生成过多，或肾脏排泄减少均可使其升高。肥胖、高脂血症、高血压、冠心病及长期服用降压利尿药者亦可导致高尿酸血症。可分为原发性和继发性高尿酸血症。无症状性高尿酸血症可以没有关节炎、痛风等症状。高尿酸血症中，大约10%-20%可发展为痛风。建议您：(1)低嘌呤饮食、戒酒，多饮水。(2)重视健康体检。(3)适当运动，控制体重。(4)慎用可能影响尿酸排泄和使尿酸升高的药物。(5)内分泌代谢病科或风湿病科就诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "6.脂异常。总胆固醇（TC）值偏(5.65mmol/L)(参考值≤5.20)。建议内科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【血脂异常】是一类较常见的疾病，是人体内脂蛋白的代谢异常，主要包括总胆固醇和低密度脂蛋白胆固醇、甘油三酯升高和或高密度脂蛋白胆固醇降低等。血脂异常是导致动脉粥样硬化的重要因素之一，是冠心病和缺血性脑卒中的独立危险因素。引起血脂异常的原因：（1)饮食不科学(2) 生活无规律，体力活动减少。(3）患有某些代谢性疾病，如肥胖症、糖尿病、遗传疾病等。健康体检发现脂异常者应注意：(1）调整膳食结构。(2)加强体育锻炼，控制体董。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(3) 戒烟，控酒。(4)控制影响血脂的其他疾病，如糖尿病等。(5)对于40岁以上的中老年人群或者血脂异常合并高血压、糖尿病、冠心病等危险因素者，应定期检测相关指标。经上述方法调整仍不理想，建议在医生指导下用药。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "7.肾功能提：清尿素(BUN)值偏(8.70mmol/L)(参考值1.7-8.3)。建议内科复查。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "8.多肿瘤标志物联合检测（TM12）（女）提示：血清铁蛋白测定值偏高（767.70ng/ml)（参考值男：25--  \n350：15-250)。建议内科复查，并动态观察。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【血清铁蛋白测定值偏高】铁蛋白为铁离子在体内存储形式，在体内铁代谢上起调节作用。升高见于肝脏疾病、血色病、输血引起的铁负荷过度，急性感染，铁粒幼细胞贫血、甲亢等。某些恶性肿瘤（如肝癌、淋巴瘤、白血病等）可导致铁蛋白的合成和释放增加，临床上也用于恶性肿瘤的辅助诊断，但因特异性不强，需要结合他检查指标及自身健康状况综合评估。建议复查并动态观察，如连续多次升高，应引起重视，必要时进一步检查。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": ").CT提：左侧枕叶软化灶形成可能，请结合临床及病史，必要时MR检查。建议神经内科就诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "10.CT提：年性脑改变。建议神经内科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "11.CT提：双侧筛窦少许炎症。建议喉科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "12.CT提：主动脉钙化。建议内科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "13.电图提：电轴左偏（53°）。建议内科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "【心电轴左偏】世界卫生组织推荐心电轴位于-30度～-90度之间为心电轴左偏。心电轴可受年龄、体型以及心脏在胸腔的解剖位置等因素影响，所以横位心、肥胖、妊娠时可使心电轴左偏，一般无临床意义。大量腹水、左前分支传导阻滞、左束支传导阻滞、左室肥厚、慢性阻塞性肺气肿（假性电轴左偏）、下壁肌梗死、预激综合征等也可见电轴左偏。建议治疗原发病，内科随诊。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "14.超声提：双侧颈动脉内中膜增厚。建议内科随诊。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "【颈动脉内膜增厚或斑块形成】颈动脉超声检查是诊断、评估颈动脉壁病变的有效法之一。该项检查可精确测量颈动脉内-中膜厚度、检测有无斑块形成、评估斑块稳定性及动脉狭窄程度等，不仅对动脉粥样硬化性疾病的早期诊断及预后判断具有重要意义，而且对心血管健康及心脑血管疾病风险的评估与预测也具有重要意义。颈动脉内膜增厚与颈动脉斑块形成是颈动脉壁常见病变，二者的发生多数因年龄、性别、吸烟、肥胖、高血压、糖尿病、血脂异常等因素造成。发生上述两种颈动脉壁的病变后，要警惕冠心病、脑卒中、脑梗塞等心脑血管疾病的风险。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "15.超声提：左侧颈动脉斑块形成。建议内科诊治。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "【颈动脉斑块】是颈动脉粥样硬化的表现，好发于颈总动脉分叉处，斑块可分为软斑、纤维性扁平斑块、钙化性硬斑块及溃疡性混合型斑块。其中，软斑、扁平斑和混合斑属于不稳定斑块，是引起缺血性脑卒中的重要原因之一。颈动脉斑块的形成受多种因素影响，年龄>60岁、男性、长期吸烟史、高血压病史、糖尿病史及高脂血症等是颈动脉斑块形成的危险因素，一般没有症状或仪有一些头晕、头痛、晕厥等。建议戒烟、加强锻炼、控制体重、低盐低脂饮食、控制血压、血糖、血脂。心内科诊治。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "16.超声提：胆囊多发息肉样病变。建议肝胆外科就诊。 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "【胆囊息肉】往往在体检时由超声检查时发现，其主要是胆汁中胆固醇呈过饱和状态，加之囊壁的慢性炎症，久之形成息肉样肿物。多数无临床表现，如息肉较大，少数病人可有右上腹疼痛恶心呕吐，食欲减退；可出现右胁隐痛，或牵及右肩背，可伴有消化不良等类似慢性胆囊炎的临床表现。本病偶可发生息肉样原位癌。建议您：肝胆外科诊治。如果无任何不适，息肉直径小于1厘米并且短时间不增大的话，可以每6个月复查一次超声即可。若有出现明显的不适症状、年齿大于50岁、息肉直径超过1厘米、单发的，最好尽快手术治疗，避免恶变。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "17.内痔。建议肛肠科随诊。 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "【内痔】痔是最常见的肛肠疾病，根据痔的发生部位，可分为内痔、外痔和混合痔。痔的形成与局部静脉扩张瘀血相关，如长期坐立、便秘等；另外，饮酒、进食刺激性食物、肛周感染等因素可诱发。内痔的主要表现为出血和脱出，如未发生血栓、嵌顿、感染时无疼痛。平时应注意饮食结构，增加纤维性食物，改变不良大便习惯，防治便秘与腹泻，保持肛周清洁。如有伴有出血、疼痛等不适。建议肛肠科诊治。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "18.密度检测提：质（量）减少可能。建议科进步检查。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "后骨量储备达到峰值，随年龄的增加而逐渐降低，更年期后女性的骨密度下降速率一般快使骨吸收增加和(或)形成减少因素都会导致骨失和骨质量降，不良生活生D均可加速骨密度降低。建议您平时要养成良好的生活方式，戒烟、戒酒；适量补充钙、维素D，增加户外运动和体力活动对保持骨健康至关重要。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "19.视力偏低。裸眼视力右值偏低(0.25)(参考值1\\~2)；裸眼视力左值偏低(0.3)(参考值1\\~2)；双眼白内障（初发期）。建议眼科随诊。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "，尤其是糖尿病最易并发白内障，要及时有效地控制血糖；三素A，B，C，D的食物，多食鱼类；当视力低至影响工作、 习，",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "20.性激素平测定，需结合理周期判读，请咨询妇科医。建议妇科咨询。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "21.左鼓膜混浊。建议鼻喉科随诊。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "22.牙石 $^ +$ ；25,26,28残根；24,37缺失。建议腔科就诊。 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "23.粘度检测、电测听检测结果详见报告。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "主检医师：李程 初审医师：刘杰 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "报告解读 ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "体检报告解读方式：",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "（1）现场咨询：到体检机构客服部当咨询。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "（2）电话咨询：按体检报告底部右下显电话号码致电体检机构咨询。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "（3）致电瑞慈服务热线4001688188转接预约咨询。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "（4）微信程序在线解读报告:扫扫右侧程序维码，在线解读报告。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "备注：具体咨询时间以体检机构告知为准；由于体检业务繁忙，高峰时段，可能会有医生无法立即接待、座机无法及时接听的情况，敬请客户谅解。",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/eebdd66820cb07418279bc0c3881b2c272eab6cbf939becc7bf6a90823e03e47.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "微信扫一扫，解读报告",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "电话：020-83559920（报告解读与咨询）",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4ebca3e48f43af8b4bf2c07655eae758eafe83dda0eb196af6bc245df806b0f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "审核者：薛毓峰 检查者：王捷",
+            "检验时间：2025-05-2209:53:32"
+        ],
+        "table_body": "<table><tr><td>亚硝酸盐</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>尿白细胞</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>尿糖</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>尿比重</td><td>1.030</td><td>1.003-1.030</td><td></td><td></td></tr><tr><td>酸碱度</td><td>6.00</td><td>5.4-8.4</td><td></td><td></td></tr><tr><td>维生素C</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>镜检白细胞</td><td>0</td><td>0-5</td><td>Cell/HP</td><td></td></tr><tr><td>镜检红细胞</td><td>0</td><td>0-3</td><td>Cell/HP</td><td></td></tr><tr><td>镜检管型</td><td>0</td><td>-</td><td>Cast/LP</td><td></td></tr><tr><td>镜检结晶</td><td>未见</td><td>未见</td><td>-</td><td></td></tr></table>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/184d502bacb0ee2e89c1f3e14bb21eea78dd3e5798f2fab5afeb1417d7c3c75b.jpg",
+        "table_caption": [
+            "检验项：宫颈刮 "
+        ],
+        "table_footnote": [
+            "审核者：冯秋华 检查者：龙晴 ",
+            "检验时间：2025-05-2319:31:59"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>TCT（液基超薄细胞检测）</td><td>未见上皮内 病变或恶性 细胞 (NILM) 。</td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba1921b3d44a5a903a08b59c08c2853a16be2eaa6b96597f94f28840b6b76f42.jpg",
+        "table_caption": [
+            "检验项目：生化"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：钟军",
+            "检验时间：2025-05-2313:20:46"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>淀粉酶</td><td>80.21</td><td>25.8--103.2</td><td>UL</td><td></td></tr><tr><td>类风湿因子</td><td>9.83</td><td>0.92--29.16</td><td>KUL</td><td></td></tr><tr><td>超敏C反应蛋白CRP</td><td>1.00</td><td>3.0</td><td>mg/L</td><td></td></tr><tr><td>抗链球菌溶素O测定</td><td>84.56</td><td>1.15--157.53</td><td>KU/L</td><td></td></tr><tr><td>免疫球蛋白测定IgG</td><td>12.43</td><td>7--16</td><td>g/L</td><td></td></tr><tr><td>免疫球蛋白测定IgA</td><td>3.20</td><td>0.81--3.95</td><td>g/L</td><td></td></tr><tr><td>免疫球蛋白测定IgM</td><td>0.72</td><td>0.4-2.3</td><td>g/L</td><td></td></tr><tr><td>β2微球蛋白检测</td><td>1.91</td><td>0.8--2.8</td><td>ug/ml</td><td></td></tr><tr><td>同型半胱氨酸</td><td>11.20</td><td>1.1--19.5</td><td>umol/L</td><td></td></tr><tr><td>胃蛋白酶原I</td><td>103.82</td><td>≥70.28</td><td>μg/L</td><td></td></tr><tr><td>胃蛋白酶原Ⅱ</td><td>9.12</td><td>0.86--19.98</td><td>μg/L</td><td></td></tr><tr><td>胃蛋白酶原比值</td><td>11.38</td><td>&gt;3</td><td></td><td></td></tr><tr><td>胃泌素-17（G-17）检测</td><td>81.51</td><td>35--105</td><td>pg/ml</td><td></td></tr></table>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/f513af98784812c9fd99bfa0eef2a096d74794046d29ed11ad0fe0e8d4be515d.jpg",
+        "table_caption": [
+            "检验项目：免疫发光"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>促甲状腺激素(TSH)</td><td>1.37</td><td>0.27--4.2</td><td>uIU/m1</td><td></td></tr><tr><td>三碘甲状腺原氨酸 （T3)</td><td>1.56</td><td>1.3-3.1</td><td>nmol/L</td><td></td></tr><tr><td>甲状腺素(T4)</td><td>91.17</td><td>66--181</td><td>nmol/L</td><td></td></tr><tr><td>游离三碘甲状腺原氨酸 (FT3)</td><td>4.95</td><td>3.1--6.8</td><td>pmol/L</td><td></td></tr></table>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7a3d2ba36905bbe2bb7d98788c1be9f6ac0782bf50d5fe903310ba180f57221.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "审核者：李海宁 检查者：王李婷 ",
+            "检验时间：2025-05-2414:57:11"
+        ],
+        "table_body": "<table><tr><td>游离甲状腺素（FT4)</td><td>13.43</td><td>12--22</td><td>pmol/L</td><td></td></tr><tr><td>抗甲状腺球蛋白抗体 (TG-Ab)</td><td>2.46</td><td>&lt;4.11</td><td>IU /m1</td><td></td></tr><tr><td>甲状腺过氧化物酶抗体</td><td>2.37</td><td>&lt;5.61 男性：1.5-- 12.4性</td><td>IU /m1</td><td></td></tr><tr><td>血清促卵泡刺激素</td><td>13.68</td><td>：卵泡 :3.5- 12 7.7：绝经后 :25.8--134.8</td><td>mIU/m1</td><td></td></tr><tr><td>血清促黄体生成素</td><td>9.88</td><td>男性：1.4-- 7.7性：卵 泡期：1.9- 11.6；排卵期 :12.9- 105.2；黄体 期：0.8- 10.5：绝经后 :6.6--64.4</td><td>mIU/m1</td><td></td></tr><tr><td>雌二醇测定</td><td>&lt;10.00</td><td>男性：25- 84：卵泡 期：20-138 排期期 :31-317:绝 经后：25= 84;</td><td>pg/ml</td><td></td></tr><tr><td>孕酮测定</td><td>0.26</td><td>男性：0.1-2.1 性：卵泡 期：0.2-1.6排 卵期：0.3-2.1 黄体期：1.8- 22.5绝经后 :&lt;0.1-1.05 孕前三个月 3.9-60孕中 三个月：15.4</td><td>ng/ml</td><td></td></tr><tr><td>清泌乳素测定</td><td>&lt;7.50</td><td>60 男：2.7-13女 男：绝经前 3.4- 26.5：绝经后 : 2.8-19.5</td><td>ng/ml</td><td></td></tr><tr><td>睾酮测定</td><td>0.20</td><td>男：1.79- 8.14女 :&lt;0.99</td><td>ng/mL</td><td></td></tr><tr><td>胰岛素检测</td><td>17.51</td><td>2.2--25.0</td><td>uIU/mL</td><td></td></tr></table>",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c3790f4ec985183c19bc915bd5ff2c83ec876259fab7ebfb618cfeaa2fb9160.jpg",
+        "table_caption": [
+            "检验项目：免疫发光"
+        ],
+        "table_footnote": [
+            "审核者：胡芝兰检查者：李安琪 ",
+            "检验时间：2025-05-2300:46:55"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>梅毒甲苯胺红不加热血清试验</td><td>阴性</td><td>阴性</td><td></td><td></td></tr></table>",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ffe7a7142f620323c0de6d7619b37d345181b75f27a881ad071b7e836f4588e.jpg",
+        "table_caption": [
+            "检验项目：免疫"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：王李婷 ",
+            "检验时间：2025-05-2414:57:11"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>C肽测定</td><td>2.79</td><td>1.0--4.8</td><td>ng/ml</td><td></td></tr><tr><td>乙型肝炎表面抗原 (HBsAg)</td><td>阴性</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>乙型肝炎表抗体(HBsAb)</td><td>阳性</td><td>阴性(-)</td><td></td><td>△</td></tr><tr><td>乙型肝炎E抗原（HBeAg)</td><td>阴性</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>乙型肝炎E抗体(HBeAb)</td><td>阴性</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>乙型肝炎核抗体(HBcAb)</td><td>阴性</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>丙型肝炎抗体</td><td>阴性</td><td>阴性</td><td></td><td></td></tr></table>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e79ad8c9da460d58c21fec693c23434c497c7f829da76a07071046dabcf15d4.jpg",
+        "table_caption": [
+            "检验项目：免疫"
+        ],
+        "table_footnote": [
+            "审核者：胡芝兰检查者：李安琪 ",
+            "检验时间：2025-05-2300:46:55"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>艾滋病筛检 (HIV)</td><td>阴性</td><td>阴性</td><td></td><td></td></tr></table>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b039769ef686d55f632b232ba8cd72356f0b2057b8686baf32ee5910b152556.jpg",
+        "table_caption": [
+            "检验项目：免疫"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：王李婷 ",
+            "检验时间：2025-05-2414:57:11"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>鳞状上皮细胞癌相关抗原测定</td><td>0.47</td><td>0--1.5</td><td>ng/ml</td><td></td></tr></table>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/213ed185cccf8e36b7a58af6c1eebc656e6b85e93095a8c8140a005cfa47ba3b.jpg",
+        "table_caption": [
+            "检验项目：免疫"
+        ],
+        "table_footnote": [
+            "审核者：胡芝兰 检查者：李安琪",
+            "检验时间：2025-05-2300:46:55"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>甲型肝炎抗体IgM</td><td>阴性</td><td>阴性</td><td></td><td></td></tr><tr><td>戊型肝炎抗体IgM</td><td>阴性</td><td>阴性</td><td></td><td></td></tr></table>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a9eba1b1a5d87c5026605d2b80b11844e40a91bfd247b98d510546fc047b57f.jpg",
+        "table_caption": [
+            "检验项目：血粘度"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>全血粘度（低切）</td><td>9.72</td><td>9.22-14.8</td><td>MPa.s</td><td></td></tr><tr><td>全血粘度（5低切）</td><td>6.58</td><td>6.74-9.73</td><td>Mpa.s</td><td>↓</td></tr><tr><td>全血粘度（50中切）</td><td>4.39</td><td>4.61-6.04</td><td>MPa.s</td><td>↓</td></tr><tr><td>全血粘度（高切）</td><td>4.07</td><td>4.02-5.5</td><td>MPa.s</td><td></td></tr><tr><td>血浆粘度</td><td>1.62</td><td>1.18-1.74</td><td>MPa.s</td><td></td></tr><tr><td>红细胞压积</td><td>0.40</td><td>0.35-0.45</td><td>L/L</td><td></td></tr><tr><td>红细胞沉降率</td><td>14.00</td><td>0.00-20.00</td><td>mm/h</td><td></td></tr><tr><td>全血高切相对指数</td><td>2.51</td><td>2.31-4.65</td><td></td><td></td></tr><tr><td>全血低切相对指数</td><td>6.00</td><td>7.88-16.45</td><td></td><td>↓</td></tr><tr><td>血沉方程K值</td><td>43.58</td><td>0.00-80.48</td><td></td><td></td></tr><tr><td>红细胞聚集指数</td><td>1.82</td><td>1.38-2.74</td><td></td><td></td></tr><tr><td>全低切还原粘度</td><td>12.60</td><td>9.35-32.06</td><td>MPa.s</td><td></td></tr><tr><td>全血高切还原粘度</td><td>3.81</td><td>3.33-8.77</td><td>MPa.s</td><td></td></tr></table>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6cfe193bc3595f8e53ec7a1c8d268f04d7165f7659d81bbe5e82f40581a218e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "审核者：傅晓珍 检查者：陈伟鸿"
+        ],
+        "table_body": "<table><tr><td>红细胞变形指数TK</td><td>0.78</td><td>0.49-1.12</td><td></td><td></td></tr><tr><td>红细胞刚性指数</td><td>3.81</td><td>1.90-7.02</td><td></td><td></td></tr></table>",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f9a5c0cfb19e87b5c488b1311bbf9208bed7c0f33eb772003009bed29e911e1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"5\">检验项目：人乳头瘤</td></tr><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>人乳头瘤病毒11型（HPV11型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分16型（HPV16型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分18型（HPV18型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分26型（HPV2型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分31型（HPV 31型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分33型(HPV33型</td><td>阴性(-)</td><td>阴性(-）</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分35型（HPV35型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分39型（HPV39型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>乳头瘤病毒42型（HPV42型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分43型（HPV43型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>乳头瘤病毒分-45型（HPV45型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分51型（HPV51型</td><td>阴性(-）</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分-52型（HPV52型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒5型（HPV53型</td><td>阴性(-)</td><td>阴性(-）</td><td></td><td></td></tr><tr><td>人乳头瘤病毒56型（HPV56型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分-58型（HPV58型</td><td>阴性(-)</td><td>阴性(-）</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分型59型（HPV59型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分-6型(HPV66型</td><td>阴性(-)</td><td>阴性(-）</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分-68型（HPV68型</td><td>阴性(-）</td><td>阴性(-）</td><td></td><td></td></tr><tr><td>人乳头瘤病毒-6型（HPV6型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分73型（HPV73型</td><td>阴性(-)</td><td>阴性(-）</td><td></td><td></td></tr></table>",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8d569a3f26a285746cf4d87436d3f240f16abbd5090f935e3e0475f14a01d4d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "审核者：胡芝兰 检查者：王珏",
+            "检验时间：2025-05-2316:38:53"
+        ],
+        "table_body": "<table><tr><td>人乳头瘤病毒81型（HPV81型</td><td>阴性(-)</td><td>阴性(-)</td><td></td><td></td></tr><tr><td>人乳头瘤病毒分型-82型（HPV82型</td><td>阴性(-）</td><td>阴性(-)</td><td></td><td></td></tr></table>",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/86d7870776b7cd8a64df7dd13c35c4f514697309faa0835732ec854ec27979c9.jpg",
+        "table_caption": [
+            "检验项目：多肿瘤标志物"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：王李婷 ",
+            "检验时间：2025-05-2414:57:11"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>甲胎蛋白(AFP)(发光法-定量)</td><td>5.01</td><td>&lt;10</td><td>ng/ml</td><td></td></tr><tr><td>癌胚抗原(CEA)(发光法-定量)</td><td>2.35</td><td>0--5</td><td>ng/ml</td><td></td></tr><tr><td>糖类抗原19-9测定(CA19-9)</td><td>28.29</td><td>0--35</td><td>U/m1</td><td></td></tr><tr><td>糖类抗原125测定(CA125)</td><td>9.65</td><td>0--37 男：25--</td><td>U/m1</td><td></td></tr><tr><td>血清铁蛋白测定</td><td>767.70</td><td>350女：15-- 250</td><td>ng/ml</td><td>↑</td></tr><tr><td>糖类抗原15-3测定(CA15-3)</td><td>7.69</td><td>0--25</td><td>U/m1</td><td></td></tr><tr><td>糖类抗原242测定(CA242)</td><td>6.11</td><td>0--20</td><td>U/m1</td><td></td></tr><tr><td>糖类抗原50测定(CA50)</td><td>16.75</td><td>0--20</td><td>U/m1</td><td></td></tr><tr><td>神经元特异性烯醇化酶</td><td>12.53</td><td>0--15</td><td>ng/ml</td><td></td></tr><tr><td>β绒膜促性腺激素</td><td>0.68</td><td>0-10</td><td>mIU/m1</td><td></td></tr><tr><td>糖类抗原72-4测定(CA72-4)</td><td>1.99</td><td>0--7</td><td>U/m1</td><td></td></tr><tr><td>细胞角蛋白19片段测定</td><td>3.29</td><td>0--3.3</td><td>ng/ml</td><td></td></tr></table>",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c4ec4dde02da9dade67fd8874d60e30cf0ba842839a8b0050eb906ebfee6adb.jpg",
+        "table_caption": [
+            "检验项目：生化-肝功 "
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：钟军",
+            "检验时间：2025-05-2313:20:46"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>血清总胆红素</td><td>13.87</td><td>2--20.4</td><td>μmol/L</td><td></td></tr><tr><td>血清直接胆红素</td><td>3.38</td><td>0--6.8</td><td>μmol/L</td><td></td></tr><tr><td>血清间接胆红素</td><td>10.49</td><td>2--13.6</td><td>μmol/L</td><td></td></tr><tr><td>血清总蛋白</td><td>71.50</td><td>65--85</td><td>g/L</td><td></td></tr><tr><td>血清白蛋白</td><td>44.23</td><td>40--55</td><td>g/L</td><td></td></tr><tr><td>血清球蛋白</td><td>27.27</td><td>20--40</td><td>g/L</td><td></td></tr><tr><td>白蛋白/球蛋白</td><td>1.62</td><td>1.2--2.4</td><td></td><td></td></tr><tr><td>血清丙氨酸氨基转移酶</td><td>18.69</td><td>0--40</td><td>UL</td><td></td></tr><tr><td>清天冬氨酸氨基转移酶</td><td>20.97</td><td>0--40</td><td>U/L</td><td></td></tr><tr><td>谷草/谷丙</td><td>1.12</td><td></td><td></td><td></td></tr><tr><td>血清碱性磷酸酶</td><td>80.06</td><td>46--134</td><td>UL</td><td></td></tr><tr><td>血清胆碱酯酶测定</td><td>10.14</td><td>5--12</td><td>KUL</td><td></td></tr><tr><td>血清y-谷氨酰基转移酶</td><td>20.33</td><td>7.-45</td><td>UL</td><td></td></tr><tr><td>乳酸脱氢酶</td><td>241.46</td><td>110.4--243.6</td><td>UL</td><td></td></tr><tr><td>腺苷脱氨酶</td><td>9.11</td><td>4--24</td><td>UL</td><td></td></tr></table>",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ac6f501abe0c3a2e2c65923cb4a84cfcc024bde018b6eaa6b40c4c96204de21.jpg",
+        "table_caption": [
+            "检验项目：生化-肾功"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：钟军",
+            "检验时间：2025-05-2313:20:46"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>血清尿素</td><td>8.70</td><td>1.7--8.3</td><td>mmol/L</td><td>↑</td></tr><tr><td>血清肌酐</td><td>75.36</td><td>44.2--88.4</td><td>μmol/L</td><td></td></tr><tr><td>血清尿酸</td><td>401.18</td><td>143--339</td><td>μmol/L</td><td>个</td></tr><tr><td>血清胱抑素C测定</td><td>1.02</td><td>0.02--1.49</td><td>mg/L</td><td></td></tr></table>",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/0aa1cfe6f019e4ef9f41fe1b22671fb53aa99c594f052bc2209732bfad92202c.jpg",
+        "table_caption": [
+            "检验项目：生化-血糖"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：钟军",
+            "检验时间：2025-05-2313:20:46"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>空腹血糖</td><td>5.96</td><td>3.9-6.1</td><td>mmol/L</td><td></td></tr></table>",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc6b3f76fdff73722520ba95eb06ee600d6a7f8c4ec5bc1bc9a4bddd036b8b0d.jpg",
+        "table_caption": [
+            "检验项目：生化-脂"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：钟军",
+            "检验时间：2025-05-2313:20:46"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>总胆固醇</td><td>5.65</td><td>5.20</td><td>mmol/L</td><td>↑</td></tr><tr><td>甘油三酯</td><td>1.58</td><td>&lt;1.7</td><td>mmol/L</td><td></td></tr><tr><td>高密度脂蛋白胆固醇</td><td>1.57</td><td>0.9--2.19</td><td>mmol/L</td><td></td></tr><tr><td>低密度脂蛋白胆固醇</td><td>3.05</td><td>&lt;3.36</td><td>mmol/L</td><td></td></tr><tr><td>血清载脂蛋白A1测定</td><td>1.44</td><td>1--1.78</td><td>g/L</td><td></td></tr><tr><td>血清载脂蛋白B测定</td><td>1.05</td><td>0.64--1.14</td><td>g/L</td><td></td></tr><tr><td>血清脂蛋白α测定</td><td>133.60</td><td>3--397</td><td>mg/L</td><td></td></tr><tr><td>动脉硬化指数（AI)</td><td>2.60</td><td>0--4</td><td></td><td></td></tr></table>",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d0e2a9ce797e02c63426f507f9d67626810c6ed979950b41d8842c5c5eea768.jpg",
+        "table_caption": [
+            "检验项目：生化-糖化"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：钟军",
+            "检验时间：2025-05-2313:35:23"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>糖化血红蛋白</td><td>4.90</td><td>4.0--6.0</td><td>%</td><td></td></tr></table>",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/b76179191b7c10e84ff3a0d084978f2c3cb84db5e1a9306094f2d2551bbb73df.jpg",
+        "table_caption": [
+            "检验项目：免疫-HE4"
+        ],
+        "table_footnote": [
+            "审核者：李海宁 检查者：王李婷 ",
+            "检验时间：2025-05-2414:57:11"
+        ],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>附睾蛋4（HE4）检测</td><td>39.07</td><td>绝经前女性 0-70:绝经后 女性0-140;</td><td>pmol/L</td><td></td></tr></table>",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/78edec6ddc7032082c09d42acf30d7464274f79eda962354189a3006e8ec972e.jpg",
+        "table_caption": [
+            "检验项目：血常规五分类"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>项目名称</td><td>结果</td><td>参考值</td><td>单位</td><td>标志</td></tr><tr><td>白细胞</td><td>5.29</td><td>3.5-9.5</td><td>*10^9/L</td><td></td></tr><tr><td>中性粒细胞百分比</td><td>64.00</td><td>50-70</td><td>%</td><td></td></tr><tr><td>淋巴细胞百分比</td><td>28.40</td><td>20-40</td><td>%</td><td></td></tr><tr><td>单核细胞百分比</td><td>4.50</td><td>3.0-8.0</td><td>%</td><td></td></tr></table>",
+        "page_idx": 33
+    }
+]
